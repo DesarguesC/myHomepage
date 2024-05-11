@@ -16,6 +16,8 @@
 
 # To Launch: $ sudo screen jekyll serve # run on localhost:4000
 title: Welcome to DesarguesC's Homepage!
+first_name: Ding
+last_name: Chen
 email: dingchen@hdu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
    
